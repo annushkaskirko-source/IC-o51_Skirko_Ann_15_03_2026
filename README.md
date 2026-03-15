@@ -38,7 +38,3 @@ catch(ValidationException ex)
 {
     MessageBox.Show(ex.Message, "Помилка введення", MessageBoxButtons.OK, MessageBoxIcon.Error);
 }
-
-
-
----
